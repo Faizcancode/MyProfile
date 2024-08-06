@@ -405,7 +405,7 @@ span{
     line-height: 2;
 }
 .service-info p{
-    font-size: 1.6rem;
+    font-size: 1.6vm;
     font-weight: 600;
     max-height: 100px;
     line-height: 1.7;
